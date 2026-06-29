@@ -5,14 +5,14 @@ html {
 }
 
 h1 {
-  font-family: Arial;
+  font-family: Pliant;
   font-size: 70px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 p {
-  font-family: Arial;
+  font-family: Pliant;
 }
 
 .subtitle {
@@ -23,6 +23,7 @@ p {
 }
 
 button {
+  font-family: Pliant;
   font-size: 35px;
   width: 100vh;
   text-align: left;
