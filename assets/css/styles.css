@@ -35,6 +35,16 @@ button {
   margin: 15px;
 }
 
+a.button {
+  font-family: Pliant;
+  color: #a5a09e;
+  text-decoration: none;
+}
+
+a.button:hover {
+  color: black;
+}
+
 button:hover {
   background-color: black;
   color: #fbf3f0;
@@ -50,4 +60,8 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+div.limitWidth {
+  width: 180vh;
 }
