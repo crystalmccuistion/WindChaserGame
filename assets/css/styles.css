@@ -6,22 +6,38 @@ html {
 
 h1 {
   font-family: Arial;
+  font-size: 70px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 p {
   font-family: Arial;
-  margin-top: 0;
-  margin-bottom: 30;
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 
-.gray {
+.subtitle {
   color: #a5a09e;
+  font-size: 15px;
+  margin-bottom: 30px;
 }
 
 button {
-  padding: 30;
+  font-size: 35px;
+  width: 100vh;
+  text-align: left;
+  padding-left: 60px;
+  background-color: #fbf3f0;
+  color: #a5a09e;
+  border: none;
+  cursor: pointer;
+  margin: 15px;
+}
+
+button:hover {
+  background-color: black;
+  color: #fbf3f0;
 }
 
 .centerOnGrid {
