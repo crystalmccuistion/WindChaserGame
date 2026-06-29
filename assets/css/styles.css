@@ -1,1 +1,37 @@
 /* styles.css */
+
+html {
+  background-color: #fbf3f0;
+}
+
+h1 {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 30;
+}
+
+.gray {
+  color: #a5a09e;
+}
+
+button {
+  padding: 30;
+}
+
+.centerOnGrid {
+    display: grid; 
+    place-items: center;
+    height: 100vh;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
