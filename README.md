@@ -1,3 +1,3 @@
 # Wind Chaser
 
-A game about finding your calling. 
+A text adventure about finding your calling. 
