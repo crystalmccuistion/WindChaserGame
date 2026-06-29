@@ -13,13 +13,12 @@ h1 {
 
 p {
   font-family: Arial;
-  margin-top: 5px;
-  margin-bottom: 30px;
 }
 
 .subtitle {
   color: #a5a09e;
   font-size: 15px;
+  margin-top: 5px;
   margin-bottom: 30px;
 }
 
